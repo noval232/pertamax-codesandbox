@@ -1,4 +1,13 @@
 .App {
   font-family: sans-serif;
   text-align: center;
+  color: red;
+}
+
+.btn {
+  background: #2994b2;
+  color: #ffb400;
+  padding: 5px 10px;
+  display: inline-block;
+  margin-right: 5px;
 }
